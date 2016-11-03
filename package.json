@@ -50,6 +50,6 @@
     },
     "repository": {
       "type": "git",
-      "url": "git://github.com/vamcc/simpleFileheader.git"
+      "url": "git://github.com/vamcc/vscode-simpleFileheader.git"
     }
 }
