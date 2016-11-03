@@ -11,3 +11,13 @@ e.g.
  * file description
  */
 ```
+
+## usage
+
+``` bash
+$ npm install -g vsce
+
+$ vsce package
+Created: D:\vscode-ext\fileheader\simplefileheader-0.0.1.vsix
+```
+* switch to extension tab and install from VSIX

@@ -50,8 +50,7 @@ function activate(context) {
     // The commandId parameter must match the command field in package.json
 
     const commands = [
-        vscode.commands.registerCommand('fileheader.simple', () => {
-            console.log('coming')
+        vscode.commands.registerCommand('extension.simpleFileheader', () => {
             insertSth(createHeader())
         })
     ]
